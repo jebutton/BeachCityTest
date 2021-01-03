@@ -1,2 +1,2 @@
 # BeachCityTest
-GitHub Repo for Beach.City Automated Testing
+GitHub Repo for Beach.City Testing Automation code.

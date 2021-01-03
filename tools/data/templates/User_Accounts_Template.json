@@ -1,0 +1,12 @@
+{
+     "Test_User_Accounts":[  
+{  
+"rowID":"A001_OwnerAccount",
+"description":"Account details for test instance owner acccount.",
+"email":"admin@localhost:3000",
+"password":"password",
+"defaultDisplayName":""
+}
+]
+}
+
